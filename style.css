@@ -1,10 +1,36 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'arial narrow', arial, sans-serif;
   font-weight: 300;
-  background-image: url(linedpaper.png);
+  color: white;
+  background-image: url(Chalkboard-background.jpg);
   background-repeat: repeat;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+h1{
+	color: #95E7EC; 
+	/*note: i like coding!;*/
+}
+h4{
+	color: blue;
+	font-style: italic;
+	font-weight: bold;
+}
+#summary {
+	color: pink;
+}
+.unicorns {
+	color: green;
+}
+img {
+	width: 230px;
+	height: 345px;
+	/*note: made width 20% of original;*/
+}
+h5{
+	color: red;
+	font-weight: bold;
+	font-size: 16px;
 }
