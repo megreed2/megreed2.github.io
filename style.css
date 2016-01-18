@@ -1,8 +1,8 @@
 body {
-  font-family: 'arial narrow', arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: white;
-  background-image: url(australia-kangaroo.jpg);
+  background-image: url(pavement_background.jpeg);	
   background-repeat: repeat;
 }
 #wrapper {
@@ -24,10 +24,32 @@ h4{
 .unicorns {
 	color: #6d7f00;
 }
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 2	00%; 
+   color: black;
+   font-style:;
+}
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
 img {
-	width: 230px;
-	height: 345px;
-	/*note: made width 20% of original;*/
+	width: 100%;
+	height: 100%;
+	/*note: made image 2/3 of original;*/
 }
 h5{
 	color: #ffffe5;
@@ -40,4 +62,9 @@ li.bullet{
 }
 h2.title2{
 	color: #f89600;
+}
+.jumbotron {
+	background-image: url("carburetor_county_radiator_springs.jpg");
+	background-size: cover;
+	height: 1000px;
 }
