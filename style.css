@@ -13,23 +13,6 @@ h1{
 	color: #794044; 
 	/*note: i like coding!;*/
 }
-h4{
-	color: #ffdab9;
-	font-style: italic;
-	font-weight: bold;
-}
-#summary {
-	color: #fc8b00;
-}
-.unicorns {
-	color: #6d7f00;
-}
-
-.image { 
-   position: relative; 
-   width: 100%; /* for IE 6 */
-}
-
 h2 { 
    position: absolute; 
    top: 200px; 
@@ -51,20 +34,32 @@ img {
 	height: 100%;
 	/*note: made image 2/3 of original;*/
 }
-h5{
-	color: #ffffe5;
-	font-weight: bold;
-	font-size: 16px;
-}
-li.bullet{
-	color: #111008;
-	font-weight: bold;
-}
-h2.title2{
-	color: #f89600;
-}
+
 .jumbotron {
 	background-image: url("carburetor_county_radiator_springs.jpg");
 	background-size: cover;
 	height: 1000px;
+}
+h3 {
+  color: black;
+}
+h4 {
+  color: black;
+}
+#lightning {
+  background-image: url("lightning_mcqueen.jpg");
+  background-size: cover;
+  height: 200px;
+}
+#mater {
+  background-image: url("tow_mater.jpg");
+  background-size: cover;
+  height: 200px;
+
+}
+#guido {
+  background-image: url("guido.jpg");
+  background-size: cover;
+  height: 200px;
+
 }
