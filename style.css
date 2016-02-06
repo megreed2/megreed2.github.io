@@ -36,7 +36,7 @@ img {
 }
 
 .jumbotron {
-	background-image: url("carburetor_county_radiator_springs.jpg");
+	background-image: url("cars/carburetor_county_radiator_springs.jpg");
 	background-size: cover;
 	height: 1000px;
 }
@@ -47,18 +47,18 @@ h4 {
   color: black;
 }
 #lightning {
-  background-image: url("lightning_mcqueen.jpg");
+  background-image: url("cars/lightning_mcqueen.jpg");
   background-size: cover;
   height: 200px;
 }
 #mater {
-  background-image: url("tow_mater.jpg");
+  background-image: url("cars/tow_mater.jpg");
   background-size: cover;
   height: 200px;
 
 }
 #guido {
-  background-image: url("guido.jpg");
+  background-image: url("cars/guido.jpg");
   background-size: cover;
   height: 200px;
 

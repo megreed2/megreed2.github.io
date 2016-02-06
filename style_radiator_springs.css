@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: white;	
+}
+h1{
+	color: #794044; 
+	/*note: i like coding!;*/
+}
+.jumbotron {
+	background-image: url("cars/radiator_springs_greetings_2.jpg");
+  background-repeat: no-repeat;
+  width: 560px;
+  height: 315px;
+
+}
+.car-title {
+  margin-top: 20px;
+}
+
+h3 {
+  color: black;
+}
+h4 {
+  color: black;
+}
